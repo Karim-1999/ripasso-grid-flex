@@ -9,15 +9,15 @@
 }
 
 img {
-  margin-left: 20px;
+/*   margin-left: 20px; */
   display: flex;
   justify-content: flex-end;
-  transform: translate(106px, -7px);
+  /* transform: translate(106px, -7px); */
 }
 
 .ivo {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
     
 
 }
