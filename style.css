@@ -71,6 +71,14 @@ img {
      display: flex;
      flex-wrap: wrap;
      gap: 20px ;
+
+    }
+
+    .due  {
+        transform: translatey(0px);
+    }
+    .tre {
+        transform: translatey(0px);
     }
   }
 
